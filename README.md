@@ -26,4 +26,4 @@ Advices for acing the class:
 8. Explained in Q7.
 
 ### Activity 3
-[Breakdown Document] (https://docs.google.com/document/d/1aIuBE0CrVyJpXfz-9SdCGcqkjD8VZ-L99s91ZUtDOMw/edit?usp=sharing)
+[Breakdown Document]:https://docs.google.com/document/d/1aIuBE0CrVyJpXfz-9SdCGcqkjD8VZ-L99s91ZUtDOMw/edit?usp=sharing
