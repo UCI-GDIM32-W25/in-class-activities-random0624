@@ -33,3 +33,5 @@ Advices for acing the class:
 ## W2
 
 ### Activity 1
+<img width="823" height="629" alt="Screenshot 2026-01-13 at 18 32 53" src="https://github.com/user-attachments/assets/19df260c-9c3a-4d98-92e3-3da91ae90949" />
+
