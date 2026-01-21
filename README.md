@@ -46,3 +46,5 @@ Advices for acing the class:
 Ransom (I did not attend class activities in person)
 
 ### Activity 3
+<img width="698" height="459" alt="Screenshot 2026-01-20 at 20 01 10" src="https://github.com/user-attachments/assets/859f59c2-1ff9-4b2d-9bab-fb18ce8fad24" />
+
