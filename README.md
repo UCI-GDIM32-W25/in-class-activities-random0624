@@ -37,3 +37,12 @@ Advices for acing the class:
 
 ### Activity 2
 [MG2 Commit Link](https://github.com/UCI-GDIM32-W25/mg2-random0624/commit/fd659cfa46e87735e5ec58c46913dc4a916cade9)
+
+#
+
+## W3
+
+### Activity 1-2
+Ransom (I did not attend class activities in person)
+
+### Activity 3
