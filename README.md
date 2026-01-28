@@ -61,3 +61,4 @@ Add multiple Locator objects to the Scene. What happens to the Locator objects w
 When I added multiple Locator GameObjects, the game automatically deletes Locator scripts because there is more than one instance of it. The Locator script makes sure there is only one instance of the Locator GameObject.
 
 ### Activity 2
+![IMG_5369](https://github.com/user-attachments/assets/ea4a3eff-3604-4afc-8fa5-32868d082e26)
