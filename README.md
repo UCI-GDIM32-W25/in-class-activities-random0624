@@ -48,3 +48,16 @@ Ransom (I did not attend class activities in person)
 ### Activity 3
 <img width="698" height="459" alt="Screenshot 2026-01-20 at 20 01 10" src="https://github.com/user-attachments/assets/859f59c2-1ff9-4b2d-9bab-fb18ce8fad24" />
 
+#
+
+## W4
+
+### Activity 0
+Nicole Yang
+
+### Activity 1
+Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
+
+When I added multiple Locator GameObjects, the game automatically deletes Locator scripts because there is more than one instance of it. The Locator script makes sure there is only one instance of the Locator GameObject.
+
+### Activity 2

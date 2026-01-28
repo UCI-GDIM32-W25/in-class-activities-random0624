@@ -9,6 +9,10 @@ public class W4Seagull : MonoBehaviour
     [SerializeField] float _maxWaitSeconds = 0.5f;
 
     // add a new method here
+    private void Start(){
+        Locator.Instance.Player.CooEvent += HandlePigeonCoo;
+
+    }
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
