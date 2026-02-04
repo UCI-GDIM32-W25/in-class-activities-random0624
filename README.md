@@ -65,8 +65,22 @@ When I added multiple Locator GameObjects, the game automatically deletes Locato
 
 ## W5
 
+### Activity 1
+For me, this format looks a little bit squished and unorganized. One of the factors is I am not familiar with this design system yet, and the other is that there are more than one class in the same file. I like to keep my classes separate, so if I were to change something, that's what I would change.
+
 ### Activity 2
 In the second demo, the ItemW5Demo2 and EnemyStats Class is a scriptable object that manages showing the data, or the view. InventoryUI manages modifying and storing the data, which is the model, and the Player Class is the controller.
 
+### Activity 3
+#### Scenario 1
+Scriptable Objects are really useful in a rhythm game. There are a lot of 'bars' in each level, so it get's very tedious if you make prefabs to store game data. It's a lot easier to store each bar's data in an asset, so it can be modified a lot more effieciently. C# enums are also important. There are different types of 'notes', which can be represented using an enum.
+
+#### Scenario 2
+In Valorant, it is useful to have inheritance (pistols rifles awps...) under the parent (Weapons). Each weapon has their distinct stats, animations, skins, and shooting mechanism. The data can be retrieved from scriptable objects, that can store constant_like data like weapon damage, falloff damage, utility duration, cooloff duration etc.
+
+#### Scenario 3
+An inheritance can be used in stardew valley to create different actions when the player plants different seeds, or destroy different plants. Polymorphism is what allows different output for different plants and objects from the same input (keypress for example). I've never played stardew valley before, but I assume different plants have different data, like value, time to plant, etc... This can be implemented using Scriptable Objects. State Machine is useful for plant or player. State of plant's growth, or player's action state.
+
 ### Activity 4
 Attendance: Ro, Ransom, Evrin
+[Proposal Document](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?tab=t.0#heading=h.wcm5jag04eng)
