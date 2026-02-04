@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbf36c207e52e481090b94f7db23e498, type: 3}
   m_Name: Enemy_Frog
   m_EditorClassIdentifier: 
-  name: Forg
+  enemyName: 
   health: 10
-  dialogueLine: Ribbit...
+  dialogueLine: Ribbit...!
