@@ -62,3 +62,11 @@ When I added multiple Locator GameObjects, the game automatically deletes Locato
 
 ### Activity 2
 ![IMG_5369](https://github.com/user-attachments/assets/ea4a3eff-3604-4afc-8fa5-32868d082e26)
+
+## W5
+
+### Activity 2
+In the second demo, the ItemW5Demo2 and EnemyStats Class is a scriptable object that manages showing the data, or the view. InventoryUI manages modifying and storing the data, which is the model, and the Player Class is the controller.
+
+### Activity 4
+Attendance: Ro, Ransom, Evrin
