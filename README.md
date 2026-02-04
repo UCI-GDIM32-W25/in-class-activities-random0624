@@ -83,4 +83,5 @@ An inheritance can be used in stardew valley to create different actions when th
 
 ### Activity 4
 Attendance: Ro, Ransom, Evrin
+
 [Proposal Document](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?tab=t.0#heading=h.wcm5jag04eng)
