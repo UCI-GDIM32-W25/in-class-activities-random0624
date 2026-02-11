@@ -85,3 +85,14 @@ An inheritance can be used in stardew valley to create different actions when th
 Attendance: Ro, Ransom, Evrin
 
 [Proposal Document](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?tab=t.0#heading=h.wcm5jag04eng)
+
+## W6
+
+### Activity 1
+As mentioned in my W6 Pre-learning quiz, we can use Gizmos for a lot of the character interactions debugging. We can use drawwiresphere to debug colliders, and drawrays for interaction distance. 
+Profiler can be useful to determine which part of your code can be improved performance-wise. It's crucial for helping with game performance and optimization. A few optimization tips include: 
+- Don't put stuff in Update() that doesn't have to run every frame. 
+- Don't use GetComponent() too often.
+
+### Activity 2
+Ro, Ransom

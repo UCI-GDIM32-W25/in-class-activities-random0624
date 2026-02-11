@@ -7,7 +7,7 @@ public class GameController : MonoBehaviour
     [SerializeField] private GameObject _fruitPrefab;
     [SerializeField] private Vector2 _worldBoundsMin;
     [SerializeField] private Vector2 _worldBoundsMax;
-    [SerializeField] private int _numFruit = 100;
+    [SerializeField] private int _numFruit = 200;
 
     private List<GameObject> _fruits;
 
