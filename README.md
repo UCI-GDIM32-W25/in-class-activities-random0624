@@ -106,3 +106,5 @@ This activity is perfect for our final project! This demo introduces raycast, fi
 ### Activity 2
 I am sick today, but I coordinated beforehand with my group members and I am working from home.
 
+### Activity 3
+![IMG_5468](https://github.com/user-attachments/assets/a35847e9-d1e1-4cfc-a3ba-434a8cc8215c)
