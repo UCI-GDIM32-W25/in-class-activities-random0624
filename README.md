@@ -109,3 +109,6 @@ I am sick today, but I coordinated beforehand with my group members and I am wor
 ### Activity 3
 ![IMG_5468](https://github.com/user-attachments/assets/cdd7c0fa-ec93-49d2-98ed-4bf084d43def)
 
+### Activity 4
+[Trello Board](https://trello.com/b/dcBIyEk5/gdim-32-final)
+
