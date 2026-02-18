@@ -96,3 +96,13 @@ Profiler can be useful to determine which part of your code can be improved perf
 
 ### Activity 2
 Ro, Ransom
+
+
+## W7
+
+### Activity 1
+This activity is perfect for our final project! This demo introduces raycast, finite state machine, and gizmos, to create a scenario of a NPC wandering around, and then chases the player when they get too close. The UpdateState() method controls which state to run, and HasLineofSightToPlayer() method determines wether or not the duck can see the player with no obstacles in between, this is done using a raycast pointing directly from the duck to the player. 
+
+### Activity 2
+I am sick today, but I coordinated beforehand with my group members and I am working from home.
+
