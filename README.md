@@ -112,3 +112,7 @@ I am sick today, but I coordinated beforehand with my group members and I am wor
 ### Activity 4
 [Trello Board](https://trello.com/b/dcBIyEk5/gdim-32-final)
 
+### Activity 5
+[Recent Commit](https://github.com/random0624/GDIM32-Final/commit/14691c3c5457ac4697f3472133b1beeb625c8976)
+
+Created Collectables Folder for Collectable.cs (parent class), and Key.cs, Meat.cs for child classes. Also initiated a Scriptable Object Class for storing item info (name, icon (if needed), description, and an int value to differentiate between key and meat).
