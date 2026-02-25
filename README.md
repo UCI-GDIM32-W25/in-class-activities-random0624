@@ -116,3 +116,14 @@ I am sick today, but I coordinated beforehand with my group members and I am wor
 [Recent Commit](https://github.com/random0624/GDIM32-Final/commit/14691c3c5457ac4697f3472133b1beeb625c8976)
 
 Created Collectables Folder for Collectable.cs (parent class), and Key.cs, Meat.cs for child classes. Also initiated a Scriptable Object Class for storing item info (name, icon (if needed), description, and an int value to differentiate between key and meat).
+
+
+## W8
+
+### Activity 1: Post Processing Demo
+The bloom post-processing effect brightens colors and adds a glowing effect around it. Make sure you install the post-processing module in Unity. Add a post-processing volume to your game (can be anywhere, doesn't matter where). There are a ton of settings you can tune in the post-processing volume component. "Drunk Effect" is also an example of post-process rendering, because it effects the whole screen, and not just a specific game object. 
+
+### Activity 2: Team Attendance
+Ro, Evrin, Ransom
+
+### Activity 3: Playtest
