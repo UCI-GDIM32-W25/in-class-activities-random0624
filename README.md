@@ -127,3 +127,15 @@ The bloom post-processing effect brightens colors and adds a glowing effect arou
 Ro, Evrin, Ransom
 
 ### Activity 3: Playtest
+Playtesting goal: Everything we did for this week functions (movement, lion chasing, and can click on door to interact with it)
+
+Playtesting Captain: Evrin
+
+Playtesting Notes:
+    - Collision with the rocks is not working as intended at the moment
+    - Collision with the lion is not working as intended as well
+    - Lion trigger distance should be a lot larger
+    - Lion might be a little too fast
+
+### Activity 4: Task Check-in
+I am getting scriptable objects hooked up to all assets, and hopefully get the inventory system ui working.
