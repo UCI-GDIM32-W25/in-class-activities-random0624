@@ -153,3 +153,16 @@ Ro, Evrin, Ransom
 Playtesting Captain: Evrin Lee
 
 Playtesting Goal: Player can move around and experience all currently existing interaction without confusion. This includes being able to pickup items, the lion chases the player when close, and player is able to throw out meat from their inventory.
+
+Notes: 
+- Lion is buggy, player falls off the map when hit by the lion. 
+- Make it more obvious where the pigeon is (Add a spotlight)
+- Add one more lion(s) the game feels too easy right now and lion is not threatening
+- Place all collectables & doors in place so it makes the game fun
+
+### Activity 4: Task Check-in
+I would say we are right about where we should be in terms of progress. I think we are a bit out of scope, because we have a lot of ideas in mind, it's time to focus in on the few we actually care about implementing and throw out the rest so we can finish the game.
+
+### Activity 5: Work on Final
+
+
