@@ -164,5 +164,6 @@ Notes:
 I would say we are right about where we should be in terms of progress. I think we are a bit out of scope, because we have a lot of ideas in mind, it's time to focus in on the few we actually care about implementing and throw out the rest so we can finish the game.
 
 ### Activity 5: Work on Final
-
+[Final Commit](https://github.com/random0624/GDIM32-Final/commit/f3d62b08b7971b88fb774faf50b2d55ef14a139d)
+Added more inventory slots, and player now receives a prompt when they can pickup an item.
 
