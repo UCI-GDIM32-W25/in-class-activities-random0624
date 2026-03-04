@@ -139,3 +139,17 @@ Playtesting Notes:
 
 ### Activity 4: Task Check-in
 I am getting scriptable objects hooked up to all assets, and hopefully get the inventory system ui working.
+
+## W9
+
+### Activity 1: Demo
+Walking close to Duckie will initiate a branching dialogue option. Each option gets a different response from Duckie. The player gets to choose which option to pick. If Duckie is an NPC, the branching dialogue should loop back to a response where the branching is stopped.
+
+### Activity 2: Team Attendance
+Ro, Evrin, Ransom
+
+### Activity 3: Playtest
+
+Playtesting Captain: Evrin Lee
+
+Playtesting Goal: Player can move around and experience all currently existing interaction without confusion. This includes being able to pickup items, the lion chases the player when close, and player is able to throw out meat from their inventory.
